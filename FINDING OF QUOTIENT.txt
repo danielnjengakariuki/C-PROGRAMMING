@@ -9,6 +9,6 @@ int main()
     printf("enter the value of y \n");
     scanf("%d", &y);
     quotient = x/y;
-    printf("quotient = %f", quotient);
+    printf("quotient = %d", quotient);
     return 0;
 }
