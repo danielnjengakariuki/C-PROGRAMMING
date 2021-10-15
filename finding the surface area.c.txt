@@ -1,0 +1,12 @@
+//PROGRAM FOR FINDING THE SURFACE AREA AND VOLUME OF A SPHERE
+#include<stdio.h>
+int main ()
+{
+    float radius, surface_area, volume;
+    printf("\nplease input the radius");
+    scanf("\n%d", &radius);
+    surface_area =( 4 *3.142* radius * radius);
+    printf("\nthe surface area = %f", &surface_area);
+    volume = (1.3333 *3.142* radius * radius * radius);
+    printf("\nthe volume = %f", &volume);
+}
