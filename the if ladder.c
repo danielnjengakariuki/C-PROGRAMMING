@@ -35,4 +35,5 @@ else if(average_score<50)
     printf("Fail");
 
   }
-  }
+}
+  
