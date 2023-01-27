@@ -4,6 +4,7 @@ using namespace std;
 int main ()
 {
     cout<<"this is my first class in  programming in c++ \n";
-    cout<< "c++ is an object oriented programming language";
+    cout<< "c++ is an object oriented programming language" <<endl;
+    cout<<"the class is very enjoyable";
     return 0;
 }
